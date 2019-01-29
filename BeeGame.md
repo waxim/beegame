@@ -29,3 +29,5 @@ Write a simple game in PHP using the following rules. You should modern PHP styl
 - There are 8 Drone Bees.
 
 You should include tests.
+
+You should submit your test as a PRIVATE repo on GitHub and add @waxim as a collaborator. 
