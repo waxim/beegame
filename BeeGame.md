@@ -1,10 +1,11 @@
 # Bees In The Trap
-Write a simple game in PHP using the following rules. You should modern PHP styles and design principles. You can use symfony components but you should avoid using a fully prebuilt framework.
+Write a simple game in PHP using the following rules. You should use modern PHP styles and design principles. You can use symfony components but you should avoid using a fully prebuilt framework.
 
 ## Rules
 - The game must be run from the command line. (Setup and installation commands such as `composer install` are fine)
 - The game should have an executable shell file called `beesinthetrap`
-- The game should be turn by turn, a player should type `hit` to have their turn awaiting input after each previous turn.
+- The game should be turn by turn
+- A player should type `hit` to have their turn awaiting input after each previous turn.
 - The game should show a message to the player after each turn, with the outcome of that turn. `e.g. Direct Hit. You took 12 hit points from a Drone bee`
 - The game should be single player.
 - The game should exit on game over, with a message informing the user of how many hits were needed to destroy the hive.
